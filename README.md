@@ -1,4 +1,3 @@
-# Uncovering-the-Hidden-Treasures-of-the-Mushroom-Kingdom-A-Classification-Analysis-main
 # **Uncovering the Hidden Treasures of the Mushroom Kingdom: A Classification Analysis**
 
 ## **Project Description**
